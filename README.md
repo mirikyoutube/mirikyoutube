@@ -9,7 +9,7 @@
 
 I am Developer from Russia.
 
-- 🔭 I am currently developing &nbsp; [![GERSTLIX Badge](https://img.shields.io/badge/GerstlixNetwork-red?&style=for-the-badge)](https://github.com/gerstlixnetwork)
+- 🔭 I am currently developing &nbsp; [![GERSTLIX Badge](https://img.shields.io/badge/Gerstlix-red?&style=for-the-badge)](https://github.com/gerstlix)
 - 📫 How to reach me: &nbsp; [![VK Badge](https://img.shields.io/badge/-themirik1337-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/themirik1337)
 
 ---
