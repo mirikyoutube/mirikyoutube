@@ -1,9 +1,7 @@
-<h1 align="center">Hello! Welcome to my profile!</h1>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mirikyoutube&style=flat-square&color=blue" alt=""></p>
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'am+Miron)](https://git.io/typing-svg)<br>
+<img src="https://komarev.com/ghpvc/?username=mirikyoutube&style=flat-square&color=blue" alt=""><br>
 <a href="https://vk.com/themirik1337"><img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"></a>
-<a href="https://discord.gg/juM3nGyvtg"><img src="https://img.shields.io/badge/discord-gray?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge">     </a>
-</p>
+<a href="https://discord.gg/juM3nGyvtg"><img src="https://img.shields.io/badge/discord-gray?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"></a>
 
 ### :woman_technologist: &nbsp;About Me :
 
